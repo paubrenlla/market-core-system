@@ -20,7 +20,7 @@ This application is a full-scale commercial management platform built with **Jav
 * **Persistence:** Java Serialization (Object Streams)
 * **Architecture:** Domain-Driven Design (DDD) approach
 
-## 📂 Project Structure
+## Project Structure
 * `src/dominio`: Business logic and core entities.
 * `src/interfaz`: UI components and event handling.
 * `src/main`: Application entry point.
